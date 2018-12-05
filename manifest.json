@@ -1,0 +1,39 @@
+﻿{
+  "name": "Lisquiz",
+  "short_name": "LISQUIZ",
+  "start_url": "https://www.lisquiz.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Library and Information Science Quiz, LIS News, LIS Jobs, LIS Events, LIS Forum, UGC NET Online Coaching, Free UGC NET Study Materials.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s48/icon_lq.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s72/icon_lq.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s96/icon_lq.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s144/icon_lq.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "hhttps://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s168/icon_lq.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s192/icon_lq.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s512/icon_lq.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
+https://3.bp.blogspot.com/-bRD5p10PiRg/XAZ5JLITDlI/AAAAAAAAD5Q/4ZDhvSx_CfoYS9cLkcLrYhFr3B835Wv2wCLcBGAs/s32/icon_lq.png
